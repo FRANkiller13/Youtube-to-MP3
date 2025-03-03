@@ -1,14 +1,19 @@
-# [FREE] Youtube to mp3
-# Installation
+# <div align="center">[FREE] Youtube to mp3</div>
+# <div align="center">Installation</div>
 
 1. add the folder on desktop
 2. download ffmpeg.exe and add it inside the folder [https://ffmpeg.org/download.html]
 3. create folder with name "downloads"
+<hr>
+<div align="center">Youtube Video: https://www.youtube.com/watch?v=PQLdci5EBTM&ab_channel=FRANkiller13</div>
+<hr>
 
-Youtube Video: https://www.youtube.com/watch?v=PQLdci5EBTM&ab_channel=FRANkiller13
+<img src="https://raw.githubusercontent.com/FRANkiller13/Youtube-to-MP3/refs/heads/main/Photo1.png" /><img src="https://raw.githubusercontent.com/FRANkiller13/Youtube-to-MP3/refs/heads/main/photo2.png" />
+<img src="https://raw.githubusercontent.com/FRANkiller13/Youtube-to-MP3/refs/heads/main/photo3.png" /> 
 
-![](https://raw.githubusercontent.com/FRANkiller13/Youtube-to-MP3/refs/heads/main/Photo1.png) ![](https://raw.githubusercontent.com/FRANkiller13/Youtube-to-MP3/refs/heads/main/photo2.png)  
-![](https://raw.githubusercontent.com/FRANkiller13/Youtube-to-MP3/refs/heads/main/photo3.png)  
+<hr>
+<div align="center">if you also have any ideas to add more stuff open a Issue: <a href="https://github.com/FRANkiller13/Youtube-to-MP3/issues">Here</a></div>
+<hr>
 
 🔶 Free to use!  
 🔶 If you like the chat theme please add a star ❤️  

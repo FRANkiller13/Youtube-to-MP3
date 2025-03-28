@@ -15,7 +15,7 @@
 <hr>
 
 🔶 Free to use!  
-🔶 If you like the chat theme please add a star ❤️  
+🔶 If you like the program please add a star ❤️  
 
 🟥 Join on my Discord Server: https://discord.restream.gr/  
 🟥 My Website: https://fran.restream.gr/
